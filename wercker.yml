@@ -50,5 +50,5 @@ deploy:
         password: chenjian
         cmd: /pipeline/source/CloudNativeGo
         tag: latest
-        repository: Titanssword/CloudNativeGo
+        repository: 1776904419/CloudNativeGo
         registry: https://registry.hub.docker.com
