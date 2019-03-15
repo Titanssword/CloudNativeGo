@@ -53,7 +53,7 @@ deploy:
     - internal/docker-push:
         username: 1776904419
         password: chenjian
-        cmd: /pipeline/source/CloudNativeGo
+        cmd: ./CloudNativeGo
         tag: latest
         repository: 1776904419/CloudNativeGo
 #        registry: https://registry.hub.docker.com
