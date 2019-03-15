@@ -56,4 +56,4 @@ deploy:
         cmd: /pipeline/source/CloudNativeGo
         tag: latest
         repository: 1776904419/CloudNativeGo
-        registry: https://registry.hub.docker.com
+#        registry: https://registry.hub.docker.com
